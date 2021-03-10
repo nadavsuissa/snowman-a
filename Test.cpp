@@ -24,6 +24,7 @@
 #include "snowman.hpp"
 using namespace ariel;
 
+#include <algorithm>
 #include <string>
 using namespace std;
 
